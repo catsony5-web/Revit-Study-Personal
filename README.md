@@ -15,18 +15,22 @@ Revit / EnergyPlus가 출력한 HTM 보고서를 업로드하면 피크 부하, 
 
 | 항목 | 링크 |
 |---|---|
-| 대시보드 | **[Annual Building Systems Analysis 열기](https://catsony5-web.github.io/Revit-Study-Personal/annual-building-systems/)** |
+| 대시보드 | **[Annual Building Systems Analysis 열기](https://hyunggyu99-source.github.io/Revit-Study-Personal/annual-building-systems/)** |
 | 샘플 보고서 | [`docs/annual-building-systems/sample-reports/`](docs/annual-building-systems/sample-reports/) |
 
 **샘플 파일 (2개)**
 - `Annual Building Systems loadsRE1 ...htm`
 - `Annual Building Systems loadsRE3 ...htm`
 
+**데모 영상**
+
+https://github.com/hyunggyu99-source/Revit-Study-Personal/releases/download/v0.1-demo/Annual_Building_Systems.mp4
+
 ### 2. HVAC 기계설비 분석
 
 | 항목 | 링크 |
 |---|---|
-| 대시보드 | **[HVAC Mechanical Analysis Dashboard 열기](https://catsony5-web.github.io/Revit-Study-Personal/hvac-dashboard/)** |
+| 대시보드 | **[HVAC Mechanical Analysis Dashboard 열기](https://hyunggyu99-source.github.io/Revit-Study-Personal/hvac-dashboard/)** |
 | 샘플 보고서 | [`docs/hvac-dashboard/sample-reports/`](docs/hvac-dashboard/sample-reports/) |
 
 **샘플 파일 (4개)**
@@ -34,6 +38,12 @@ Revit / EnergyPlus가 출력한 HTM 보고서를 업로드하면 피크 부하, 
 - `K-HVAC Systems loads2 ...htm`
 - `K-HVAC Systems loads3 ...htm`
 - `K-HVAC Systems loads4 ...htm`
+
+**데모 영상**
+
+https://github.com/hyunggyu99-source/Revit-Study-Personal/releases/download/v0.1-demo/HVAC_Analysis1.mp4
+
+https://github.com/hyunggyu99-source/Revit-Study-Personal/releases/download/v0.1-demo/HVAC_Analysis2.mp4
 
 ### 사용 순서
 
